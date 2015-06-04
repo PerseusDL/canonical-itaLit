@@ -61,7 +61,7 @@
             <change when="2014-11-13" who="Stella Dee">converted to EpiDoc</change>
         </revisionDesc>
     </teiHeader>
-<text xml:lang="en"><body><div type="translation">
+<text xml:lang="en"><body><div type="translation" n="urn:cts:itaLit:dante.dc.perseus-eng1">
     <div type="textpart" subtype="book" n="1">
         <div type="textpart" subtype="canto" n="1">
             <div type="textpart" subtype="terza" n="1">
